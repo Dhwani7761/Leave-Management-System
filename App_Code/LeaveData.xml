@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<ds_Leave>
+  <Apply>
+    <Email>kshatriyahemali@gmail.com</Email>
+    <TypeOfLeave>Study Leave</TypeOfLeave>
+    <Reason>Hey</Reason>
+    <Fromdt>2017-11-24T00:00:00+05:30</Fromdt>
+    <Todt>2017-12-02T00:00:00+05:30</Todt>
+    <StatusOfLeave>Not Confirmed</StatusOfLeave>
+  </Apply>
+  <Apply>
+    <Email>kshatriyahemali@gmail.com</Email>
+    <TypeOfLeave>Study Leave</TypeOfLeave>
+    <Reason>qwertyui</Reason>
+    <Fromdt>2017-11-22T00:00:00+05:30</Fromdt>
+    <Todt>2017-11-25T00:00:00+05:30</Todt>
+    <StatusOfLeave>Not Confirmed</StatusOfLeave>
+  </Apply>
+  <Apply>
+    <Email>rupa.padia@yahoo.com</Email>
+    <TypeOfLeave>Sick Leave</TypeOfLeave>
+    <Reason>Fever</Reason>
+    <Fromdt>2017-11-13T00:00:00+05:30</Fromdt>
+    <Todt>2017-11-14T00:00:00+05:30</Todt>
+    <StatusOfLeave> Confirmed</StatusOfLeave>
+  </Apply>
+  <Apply>
+    <Email>dhwanikshatriya@icloud.com</Email>
+    <TypeOfLeave>Study Leave</TypeOfLeave>
+    <Reason>Study for exam</Reason>
+    <Fromdt>2017-11-30T00:00:00+05:30</Fromdt>
+    <Todt>2017-12-05T00:00:00+05:30</Todt>
+    <StatusOfLeave>not Confirmed</StatusOfLeave>
+  </Apply>
+</ds_Leave>
